@@ -25,7 +25,7 @@
 // elliptic curve known as curve448.
 //
 // See https://tools.ietf.org/html/draft-irtf-cfrg-curves-11
-package x448 // import "git.schwanenlied.me/yawning/x448.git"
+package x448
 
 const (
 	x448Bytes = 56
